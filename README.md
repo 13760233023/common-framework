@@ -64,21 +64,21 @@ JavaScript图像查看器
 * [Web Uploader](http://fex.baidu.com/webuploader/)  
 WebUploader是由Baidu WebFE(FEX)团队开发的一个简单的以HTML5为主，FLASH为辅的现代文件上传组件。在现代的浏览器里面能充分发挥HTML5的优势，同时又不摒弃主流IE浏览器，沿用原来的FLASH运行时，兼容IE6+，iOS 6+, android 4+。两套运行时，同样的调用方式，可供用户任意选用。  
 采用大文件分片并发上传，极大的提高了文件上传效率。
+* [plupload](https://www.plupload.com/)  
+Plupload的核心是视觉上平坦的，您可以根据自己的喜好自定义它。一个图片上传组件。
 * [store.js](https://github.com/jaywcjlove/store.js)  
 本地存储localstorage的封装，提供简单的API，没有依赖，压缩只有2.48kb（gzipped：1.07kb）。
 * [Mock.js](http://mockjs.com/)  
 生成任意随机数据，拦截Ajax请求
 * [JS-SDK](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1421141115)  
 开发微信需要参阅、微信分享、微信支付等等。
+* [Lockr.js](https://www.npmjs.com/package/lockr)  
+Lockr（发音为/lɒkəʳ/）是一个非常轻量级的库（缩小时<2kb），旨在促进您与localStorage的交互方式。保存对象和数组，数字或其他数据类型，可通过类似Redis的API访问，深受node_redis的启发。
 ## 打包库
 * [webpack](https://www.webpackjs.com/)  
 webpack 是一个模块打包器。webpack 的主要目标是将 JavaScript 文件打包在一起，打包后的文件用于在浏览器中使用，但它也能够胜任转换(transform)、打包(bundle)或包裹(package)任何资源(resource or asset)。
-* []()  
-1
-* []()  
-1
-* []()  
-1
+* [glup](https://www.gulpjs.com.cn/)  
+用自动化构建工具增强你的工作流程！
 ## js工具库
 * [Lodash.js](https://www.lodashjs.com/)  
 [Lodash中文文档](https://www.css88.com/doc/lodash/)  
