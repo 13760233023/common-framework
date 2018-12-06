@@ -81,7 +81,7 @@ webpack 是一个模块打包器。webpack 的主要目标是将 JavaScript 文�
 用自动化构建工具增强你的工作流程！
 ## js工具库
 * [Lodash.js](https://www.lodashjs.com/)  
-[Lodash中文文档](https://www.css88.com/doc/lodash/)  
+* [Lodash中文文档](https://www.css88.com/doc/lodash/)  
 * [Ramda.js](http://ramda.cn/)  
 一款实用的 JavaScript 函数式编程库。 
 是一个一致性、模块化、高性能的 JavaScript 实用工具库。(推荐) 
