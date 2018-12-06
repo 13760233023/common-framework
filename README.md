@@ -87,3 +87,8 @@ webpack 是一个模块打包器。webpack 的主要目标是将 JavaScript 文�
 是一个一致性、模块化、高性能的 JavaScript 实用工具库。(推荐) 
 * [underscorejs](https://underscorejs.org/)  
 Underscore 是一个JavaScript库，它提供了大量有用的函数式编程助手，而无需扩展任何内置对象。这是问题的答案：“如果我在一个空白的HTML页面前坐了下来，并希望立即开始为生产力，需要什么？” ......和领带一起去 的jQuery的晚礼服和 骨干的吊带。
+## 代码检测工具
+* [eslint](https://eslint.org/)  
+适用于JavaScript和JSX 的可插入linting 实用程序
+##在线图片转网图
+* [转网图](https://sm.ms/)
